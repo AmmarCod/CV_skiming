@@ -1,0 +1,40 @@
+Upload PDF,Description,Similarity,flag,username,timestamp
+C:\Users\Ammar\flagged\Upload PDF\526db080c570b2ab78216dcc1aff7078d0ebcf69\Sarah_Ahmad_Pirzada_CV 1.pdf,machine learning,,,,2023-09-20 10:33:42.553752
+C:\Users\Ammar\flagged\Upload PDF\0c348f41329716466f9163401ae8ac93e9520d3f\Sarah_Ahmad_Pirzada_CV 1.pdf,[],,,2023-09-20 10:40:51.197626
+,,,,2023-09-20 10:50:35.778902
+C:\Users\Ammar\flagged\Upload PDF\a68c76f1d69d9d872852749aac04af3b8017bbbc\Ammar Javaid  Resume.io.pdf,[],,,2023-09-20 10:50:43.722292
+C:\Users\Ammar\flagged\Upload PDF\182f9b2379996060b156744ff28efb0e46f79711\Hussains Resume 3.pdf,machine learning,,,,2023-09-20 10:52:14.856024
+,,,,,2023-09-20 10:53:57.886999
+C:\Users\Ammar\flagged\Upload PDF\a826abe4177c7828d3e9c2bca6d6e9acb4cd863f\Ammar_Javaid 1.pdf,sadsds,,,,2023-09-20 10:58:34.641829
+C:\Users\Ammar\flagged\Upload PDF\ad515f25bef35fef7cf18d4e86741bd2b0c4051c\Sarah_Ahmad_Pirzada_CV.pdf,machine learning,,,,2023-09-20 11:04:11.150123
+['C:\\Users\\Ammar\\flagged\\Upload CV PDFs\\a876dff207b06a20dd3079c91fd8addd4f052c22\\ABDULLAH_ABBASI_CV.pdf'],Python Machine Learning Ai,"ABDULLAH_ABBASI_CV            
+ similarity score 21%
+",,,2023-09-20 12:42:48.732618
+['C:\\Users\\Ammar\\flagged\\Upload CV PDFs\\e81f2ea43049d3eca37fb20ec0142b95c541c2a6\\ABDULLAH_ABBASI_CV.pdf'],Python Machine Learning Ai,"ABDULLAH_ABBASI_CV            
+ similarity score 21%
+",,,2023-09-20 12:42:51.419505
+,,,,,2023-09-20 15:08:07.390133
+['C:\\Users\\Ammar\\flagged\\Upload CV PDFs\\378c2c640ef2d8e4cbc2e489ed8a00e192f17dcd\\Muhammad_InayatHussain_ResumeA4.pdf'],machine learning,"Muhammad_InayatHussain_ResumeA4
+Similarity score: 26.02%
+Summary:  Muhammad Inayat Hussain is a Data Science graduate from Peshawar, Pakistan . He is passionate about tackling data-driven challenges and delivering real-world solutions . He has been trained in Python, R, R and Tableau and is fluent in Tableau .
+",Low similarity score,,2023-09-20 15:15:27.421495
+['C:\\Users\\Ammar\\flagged\\Upload CV PDFs\\423c1d2e613bbfcdede98ddccb17e392b636f4fa\\ABDULLAH_ABBASI_CV.pdf'],machine learning,"ABDULLAH_ABBASI_CV
+Similarity score: 7.98%
+Summary:  Abdullah Abbasi is a fresh computer science graduate with a passion for problem-solving . I am actively seeking an entry-level role as a software engineer . I have a strong foundation in software development principles and an interest in cloud & A.I. technologies .
+",Incorrect output,,2023-09-20 15:20:29.225938
+"['C:\\Users\\Ammar\\Desktop\\cv_project\\flagged\\Upload CV PDFs\\bb74ed0c628cc0a5df4081b0f78488d901f3ad5f\\Dialnet-ElHombreYLaNaturaleza-2060503.pdf', 'C:\\Users\\Ammar\\Desktop\\cv_project\\flagged\\Upload CV PDFs\\ef1ae2b2ef35fae0c8ac9808fd1ab6531e7c945a\\dutch.pdf', 'C:\\Users\\Ammar\\Desktop\\cv_project\\flagged\\Upload CV PDFs\\594ae66258dad965d7d3ec40dfe92ac8e281483d\\french.pdf']",essay on nature,"Dialnet-ElHombreYLaNaturaleza-2060503
+Similarity score: 25.90%
+Summary: Many years ago Years I exposed some ideas a long time ago.I dedicated my further activity the philosophy of law.When dealing with this special matter, it meets general budgets.
+
+---
+dutch
+Similarity score: 22.68%
+Summary: The nature philosopher and professor Matthijs Schouten An estimated five to twenty die per day on this planet and animal species Due to human actions per second, a hectare of tropical rainforest is cut.
+
+---
+french
+Similarity score: 5.29%
+Summary: The theory is based on six mainsipes written by Charles Henry Dow.The Dow Theory is one of the basics of that we know today.The Dow Jones Industrial Average Dow is seen by Monchau Cfa Cmt Cio Cio from Flowbank.
+
+---
+Total PDFs uploaded: 3",Poor summary,,2023-09-22 14:53:32.090728
